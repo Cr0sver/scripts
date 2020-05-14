@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'GTSuperRegular';
+    src: url('https://rawcdn.githack.com/Cr0sver/scripts/e7163bef28e6775823c998e1eed1db1297522a1b/gt-super-text-regular-trial-webfont.woff2') format('woff2'),
+         url('https://rawcdn.githack.com/Cr0sver/scripts/e7163bef28e6775823c998e1eed1db1297522a1b/gt-super-text-regular-trial-webfont.woff') format('woff'),
+    font-weight: 400;
+    font-style: normal;
+} 
