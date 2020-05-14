@@ -6,3 +6,11 @@
     font-style: normal;
 
 }
+@font-face {
+    font-family: 'gt_super_txt_trialbold';
+    src: url('https://rawcdn.githack.com/Cr0sver/scripts/07bd64d055c62477b999e589edc81d7a917576e6/GT-America-Standard-Bold.woff2') format('woff2'),
+         url('https://rawcdn.githack.com/Cr0sver/scripts/07bd64d055c62477b999e589edc81d7a917576e6/gt-america-standard-bold-trial-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+
+}
