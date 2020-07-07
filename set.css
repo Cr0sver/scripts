@@ -7,4 +7,9 @@
     height: 38px !important;
     background-color: #4b64d7 !important;
 }
-
+.u513_state0 {
+    -ms-overflow-x: hidden;
+    overflow-x: visible;
+    -ms-overflow-y: hidden;
+    overflow-y: visible;
+}
