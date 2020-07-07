@@ -1,9 +1,9 @@
-#u514-1_text, #u514-3_text {
+#u511-1_text, #u514-1_text, #u514-3_text {
     height: 64px !important;
     background-color: #4b64d7 !important;
 }
 
-#u514-2_text, #u514-4_text {
+#u512-1_text, #u514-2_text, #u514-4_text {
     height: 38px !important;
     background-color: #4b64d7 !important;
 }
@@ -12,4 +12,8 @@
     overflow-x: visible;
     -ms-overflow-y: hidden;
     overflow-y: visible;
+}
+[data-value="1 Line"] {
+    height: 38px !important;
+    background-color: #4b64d7 !important;
 }
