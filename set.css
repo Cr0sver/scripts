@@ -1,9 +1,9 @@
-.u514-1 .text, .u514-3 .text {
+#u514-1 .text, #u514-3 .text {
     height: 64px !important;
     background-color: #4b64d7 !important;
 }
 
-.u514-2 .text .u514-4 .text {
+#u514-2 .text #u514-4 .text {
     height: 38px !important;
     background-color: #4b64d7 important;
 }
