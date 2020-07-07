@@ -13,7 +13,7 @@
     -ms-overflow-y: hidden;
     overflow-y: visible;
 }
-div[data-value="1 Line"] {
+div[data-label="1 Line"] {
     height: 38px !important;
     background-color: #4b64d7 !important;
 }
