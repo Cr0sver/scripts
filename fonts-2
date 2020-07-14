@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'LumieraRegular';
-  src: url('https://taras.link/fonts/Lumiera.eot'); /* IE9 Compat Modes */
-  src: url('https://taras.link/fonts/Lumiera.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('https://taras.link/fonts/Lumiera.otf') format('opentype'), /* Open Type Font */
-    url('https://taras.link/fonts/Lumiera.svg') format('svg'), /* Legacy iOS */
-    url('https://taras.link/fonts/Lumiera.ttf') format('truetype'), /* Safari, Android, iOS */
-    url('https://taras.link/fonts/Lumiera.woff') format('woff'), /* Modern Browsers */
-    url('https://taras.link/fonts/Lumiera.woff2') format('woff2'); /* Modern Browsers */
+  src: url('https://rawcdn.githack.com/Cr0sver/scripts/a43a9f4b0c931d7a64677c189105949176fe44ea/Lumiera.eot'); /* IE9 Compat Modes */
+  src: url('https://rawcdn.githack.com/Cr0sver/scripts/a43a9f4b0c931d7a64677c189105949176fe44ea/Lumiera.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('https://rawcdn.githack.com/Cr0sver/scripts/a43a9f4b0c931d7a64677c189105949176fe44ea/Lumiera.otf') format('opentype'), /* Open Type Font */
+    url('https://rawcdn.githack.com/Cr0sver/scripts/a43a9f4b0c931d7a64677c189105949176fe44ea/Lumiera.svg') format('svg'), /* Legacy iOS */
+    url('https://rawcdn.githack.com/Cr0sver/scripts/a43a9f4b0c931d7a64677c189105949176fe44ea/Lumiera.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('https://github.com/Cr0sver/scripts/blob/master/Lumiera.woff') format('woff'), /* Modern Browsers */
+    url('https://github.com/Cr0sver/scripts/blob/master/Lumiera.woff2') format('woff2'); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
