@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Small Text",
+      "type": "TEXT",
+      "fontSize": 10
+    },
+    {
+      "name": "Low Contrast",
+      "type": "TEXT",
+      "contrast": 3
+    }
+  ]
+  

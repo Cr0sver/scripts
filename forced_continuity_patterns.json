@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pre-checked Checkbox",
+    "type": "INSTANCE",
+    "keywords": ["checkbox", "checked"]
+  },
+  {
+    "name": "Hard-to-find Cancellation",
+    "type": "TEXT",
+    "keywords": ["cancel"],
+    "fontSize": 10,
+    "contrast": 3
+  }
+]
