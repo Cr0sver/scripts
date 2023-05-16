@@ -1,0 +1,48 @@
+{
+  "Name of the color palette": {
+    "color/LightSkyBlue": {
+      "value": "#87C0E7",
+      "type": "color"
+    },
+    "color/DeepSkyBlue": {
+      "value": "#0077BE",
+      "type": "color"
+    },
+    "color/SunflowerYellow": {
+      "value": "#FFDA44",
+      "type": "color"
+    },
+    "color/GrassGreen": {
+      "value": "#76A835",
+      "type": "color"
+    },
+    "color/EarthBrown": {
+      "value": "#6D4A35",
+      "type": "color"
+    },
+    "color/PoppyRed": {
+      "value": "#E34C26",
+      "type": "color"
+    },
+    "grey/VeryLightGrey": {
+      "value": "#E0E0E0",
+      "type": "color"
+    },
+    "grey/LightGrey": {
+      "value": "#BDBDBD",
+      "type": "color"
+    },
+    "grey/Grey": {
+      "value": "#9E9E9E",
+      "type": "color"
+    },
+    "grey/DarkGrey": {
+      "value": "#616161",
+      "type": "color"
+    },
+    "grey/VeryDarkGrey": {
+      "value": "#424242",
+      "type": "color"
+    }
+  }
+}
