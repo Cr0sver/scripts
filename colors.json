@@ -244,55 +244,5 @@
       "value": "#6B7B79",
       "type": "color"
     }
-  },
-  "Flaming June": {
-    "JuneRed": {
-      "value": "#D64A31",
-      "type": "color"
-    },
-    "Peach": {
-      "value": "#F4A15D",
-      "type": "color"
-    },
-    "SoftYellow": {
-      "value": "#F9CC83",
-      "type": "color"
-    },
-    "LightBlue": {
-      "value": "#93B4C6",
-      "type": "color"
-    },
-    "DarkBlue": {
-      "value": "#365873",
-      "type": "color"
-    },
-    "Lightest": {
-      "value": "#EFE4E1",
-      "type": "color"
-    },
-    "Lighter": {
-      "value": "#D9C5BE",
-      "type": "color"
-    },
-    "MediumLight": {
-      "value": "#C2A69C",
-      "type": "color"
-    },
-    "Medium": {
-      "value": "#AB877A",
-      "type": "color"
-    },
-    "Darker": {
-      "value": "#936859",
-      "type": "color"
-    },
-    "Darkest": {
-      "value": "#7B4937",
-      "type": "color"
-    },
-    "Blackish": {
-      "value": "#633116",
-      "type": "color"
-    }
   }
 }
