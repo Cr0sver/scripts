@@ -1,96 +1,96 @@
 {
   "Name of the color palette": {
-    "color/LightSkyBlue": {
+    "LightSkyBlue": {
       "value": "#87C0E7",
       "type": "color"
     },
-    "color/DeepSkyBlue": {
+    "DeepSkyBlue": {
       "value": "#0077BE",
       "type": "color"
     },
-    "color/SunflowerYellow": {
+    "SunflowerYellow": {
       "value": "#FFDA44",
       "type": "color"
     },
-    "color/GrassGreen": {
+    "GrassGreen": {
       "value": "#76A835",
       "type": "color"
     },
-    "color/EarthBrown": {
+    "EarthBrown": {
       "value": "#6D4A35",
       "type": "color"
     },
-    "color/PoppyRed": {
+    "PoppyRed": {
       "value": "#E34C26",
       "type": "color"
     },
-    "grey/VeryLightGrey": {
+    "VeryLightGrey": {
       "value": "#E0E0E0",
       "type": "color"
     },
-    "grey/LightGrey": {
+    "LightGrey": {
       "value": "#BDBDBD",
       "type": "color"
     },
-    "grey/Grey": {
+    "Grey": {
       "value": "#9E9E9E",
       "type": "color"
     },
-    "grey/DarkGrey": {
+    "DarkGrey": {
       "value": "#616161",
       "type": "color"
     },
-    "grey/VeryDarkGrey": {
+    "VeryDarkGrey": {
       "value": "#424242",
       "type": "color"
     }
   },
   "Code COde": {
-    "color/WaveBlue": {
+    "WaveBlue": {
       "value": "#335C85",
       "type": "color"
     },
-    "color/SkyBlue": {
+    "SkyBlue": {
       "value": "#92AFC6",
       "type": "color"
     },
-    "color/LightSkyBlue": {
+    "LightSkyBlue": {
       "value": "#C2D8E2",
       "type": "color"
     },
-    "color/SeaFoam": {
+    "SeaFoam": {
       "value": "#E0F1F4",
       "type": "color"
     },
-    "color/Beige": {
+    "Beige": {
       "value": "#F1E2C9",
       "type": "color"
     },
-    "greyScale/Lightest": {
+    "Lightest": {
       "value": "#E5E9EA",
       "type": "color"
     },
-    "greyScale/Lighter": {
+    "Lighter": {
       "value": "#CAD1D3",
       "type": "color"
     },
-    "greyScale/MediumLight": {
+    "MediumLight": {
       "value": "#AFB9BD",
       "type": "color"
     },
-    "greyScale/Medium": {
+    "Medium": {
       "value": "#94A1A6",
       "type": "color"
     },
-    "greyScale/Darker": {
+    "Darker": {
       "value": "#798990",
       "type": "color"
     },
-    "greyScale/Darkest": {
+    "Darkest": {
       "value": "#5E717A",
       "type": "color"
     },
-    "greyScale/Blackish": {
+    "Blackish": {
       "value": "#435964",
       "type": "color"
     }
