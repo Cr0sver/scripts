@@ -117,31 +117,31 @@
       "type": "color"
     },
     "Lightest": {
-      "value": "#E3E7E2",
+      "value": "#E7E9E8",
       "type": "color"
     },
     "Lighter": {
-      "value": "#C6CFC4",
+      "value": "#CFD3D1",
       "type": "color"
     },
     "MediumLight": {
-      "value": "#A9B7A6",
+      "value": "#B6BDBB",
       "type": "color"
     },
     "Medium": {
-      "value": "#8C9F88",
+      "value": "#9DA7A5",
       "type": "color"
     },
     "Darker": {
-      "value": "#6F876A",
+      "value": "#84918F",
       "type": "color"
     },
     "Darkest": {
-      "value": "#526F4C",
+      "value": "#6B7B79",
       "type": "color"
     },
     "Blackish": {
-      "value": "#35572E",
+      "value": "#525F5D",
       "type": "color"
     }
   }
