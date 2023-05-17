@@ -194,5 +194,55 @@
       "value": "#0C404A",
       "type": "color"
     }
+  },
+  "Café Terrace at Night": {
+    "GoldenYellow": {
+      "value": "#F4B700",
+      "type": "color"
+    },
+    "MidnightBlue": {
+      "value": "#191970",
+      "type": "color"
+    },
+    "OliveGreen": {
+      "value": "#556B2F",
+      "type": "color"
+    },
+    "CobaltBlue": {
+      "value": "#3E6CB9",
+      "type": "color"
+    },
+    "BurntOrange": {
+      "value": "#FF4500",
+      "type": "color"
+    },
+    "DeepRed": {
+      "value": "#8B0000",
+      "type": "color"
+    },
+    "Amber": {
+      "value": "#FFBF00",
+      "type": "color"
+    },
+    "Magenta": {
+      "value": "#FF00FF",
+      "type": "color"
+    },
+    "LightestGrey": {
+      "value": "#F0F0F0",
+      "type": "color"
+    },
+    "LighterGrey": {
+      "value": "#D3D3D3",
+      "type": "color"
+    },
+    "MediumGrey": {
+      "value": "#A9A9A9",
+      "type": "color"
+    },
+    "DarkerGrey": {
+      "value": "#808080",
+      "type": "color"
+    }
   }
 }
