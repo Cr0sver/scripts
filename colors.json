@@ -144,5 +144,55 @@
       "value": "#525F5D",
       "type": "color"
     }
+  },
+  "Sunrise, 1874": {
+    "OceanBlue": {
+      "value": "#264653",
+      "type": "color"
+    },
+    "SkyBlue": {
+      "value": "#2A9D8F",
+      "type": "color"
+    },
+    "SunYellow": {
+      "value": "#E9C46A",
+      "type": "color"
+    },
+    "SunOrange": {
+      "value": "#F4A261",
+      "type": "color"
+    },
+    "CloudPink": {
+      "value": "#E76F51",
+      "type": "color"
+    },
+    "Lightest": {
+      "value": "#DDE4E2",
+      "type": "color"
+    },
+    "Lighter": {
+      "value": "#BBC9C7",
+      "type": "color"
+    },
+    "MediumLight": {
+      "value": "#98AFAE",
+      "type": "color"
+    },
+    "Medium": {
+      "value": "#759495",
+      "type": "color"
+    },
+    "Darker": {
+      "value": "#52787C",
+      "type": "color"
+    },
+    "Darkest": {
+      "value": "#2F5C63",
+      "type": "color"
+    },
+    "Blackish": {
+      "value": "#0C404A",
+      "type": "color"
+    }
   }
 }
