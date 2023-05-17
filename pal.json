@@ -46,53 +46,53 @@
     }
   },
   "Code COde": {
-      "color/WaveBlue": {
-        "value": "#335C85",
-        "type": "color"
-      },
-      "color/SkyBlue": {
-        "value": "#92AFC6",
-        "type": "color"
-      },
-      "color/LightSkyBlue": {
-        "value": "#C2D8E2",
-        "type": "color"
-      },
-      "color/SeaFoam": {
-        "value": "#E0F1F4",
-        "type": "color"
-      },
-      "color/Beige": {
-        "value": "#F1E2C9",
-        "type": "color"
-      },
-      "greyScale/Lightest": {
-        "value": "#E5E9EA",
-        "type": "color"
-      },
-      "greyScale/Lighter": {
-        "value": "#CAD1D3",
-        "type": "color"
-      },
-      "greyScale/MediumLight": {
-        "value": "#AFB9BD",
-        "type": "color"
-      },
-      "greyScale/Medium": {
-        "value": "#94A1A6",
-        "type": "color"
-      },
-      "greyScale/Darker": {
-        "value": "#798990",
-        "type": "color"
-      },
-      "greyScale/Darkest": {
-        "value": "#5E717A",
-        "type": "color"
-      },
-      "greyScale/Blackish": {
-        "value": "#435964",
-        "type": "color"
-      }
+    "color/WaveBlue": {
+      "value": "#335C85",
+      "type": "color"
+    },
+    "color/SkyBlue": {
+      "value": "#92AFC6",
+      "type": "color"
+    },
+    "color/LightSkyBlue": {
+      "value": "#C2D8E2",
+      "type": "color"
+    },
+    "color/SeaFoam": {
+      "value": "#E0F1F4",
+      "type": "color"
+    },
+    "color/Beige": {
+      "value": "#F1E2C9",
+      "type": "color"
+    },
+    "greyScale/Lightest": {
+      "value": "#E5E9EA",
+      "type": "color"
+    },
+    "greyScale/Lighter": {
+      "value": "#CAD1D3",
+      "type": "color"
+    },
+    "greyScale/MediumLight": {
+      "value": "#AFB9BD",
+      "type": "color"
+    },
+    "greyScale/Medium": {
+      "value": "#94A1A6",
+      "type": "color"
+    },
+    "greyScale/Darker": {
+      "value": "#798990",
+      "type": "color"
+    },
+    "greyScale/Darkest": {
+      "value": "#5E717A",
+      "type": "color"
+    },
+    "greyScale/Blackish": {
+      "value": "#435964",
+      "type": "color"
     }
+  }
 }
