@@ -1,5 +1,5 @@
 {
-  "Name of the color palette": {
+  "Plain of Auvers": {
     "LightSkyBlue": {
       "value": "#87C0E7",
       "type": "color"
@@ -45,7 +45,7 @@
       "type": "color"
     }
   },
-  "Code COde": {
+  "The Great Wave off Kanagawa": {
     "WaveBlue": {
       "value": "#335C85",
       "type": "color"
@@ -92,6 +92,56 @@
     },
     "Blackish": {
       "value": "#435964",
+      "type": "color"
+    }
+  },
+    "The Garden of Earthly Delights": {
+    "DarkForest": {
+      "value": "#405A3F",
+      "type": "color"
+    },
+    "MossGreen": {
+      "value": "#739356",
+      "type": "color"
+    },
+    "PastelGreen": {
+      "value": "#B8D5B3",
+      "type": "color"
+    },
+    "RosePink": {
+      "value": "#E7B2AC",
+      "type": "color"
+    },
+    "SkyBlue": {
+      "value": "#88B1BF",
+      "type": "color"
+    },
+    "Lightest": {
+      "value": "#E3E7E2",
+      "type": "color"
+    },
+    "Lighter": {
+      "value": "#C6CFC4",
+      "type": "color"
+    },
+    "MediumLight": {
+      "value": "#A9B7A6",
+      "type": "color"
+    },
+    "Medium": {
+      "value": "#8C9F88",
+      "type": "color"
+    },
+    "Darker": {
+      "value": "#6F876A",
+      "type": "color"
+    },
+    "Darkest": {
+      "value": "#526F4C",
+      "type": "color"
+    },
+    "Blackish": {
+      "value": "#35572E",
       "type": "color"
     }
   }
