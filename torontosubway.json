@@ -1,0 +1,422 @@
+[
+  {
+    "Station": "Bathurst",
+    "Accessible": "Yes",
+    "Lat": 43.66599176,
+    "Lng": -79.41158255
+  },
+  {
+    "Station": "Bay",
+    "Accessible": "Yes",
+    "Lat": 43.67040029,
+    "Lng": -79.39027029
+  },
+  {
+    "Station": "Bayview",
+    "Accessible": "Yes",
+    "Lat": 43.7690915,
+    "Lng": -79.3863038
+  },
+  {
+    "Station": "Bessarion",
+    "Accessible": "Yes",
+    "Lat": 43.7690915,
+    "Lng": -79.3759078
+  },
+  {
+    "Station": "Bloor–Yonge",
+    "Accessible": "Yes",
+    "Lat": 43.671043,
+    "Lng": -79.385918
+  },
+  {
+    "Station": "Broadview",
+    "Accessible": "Yes",
+    "Lat": 43.67686172,
+    "Lng": -79.35852385
+  },
+  {
+    "Station": "Castle Frank",
+    "Accessible": "No",
+    "Lat": 43.67414063,
+    "Lng": -79.36879416
+  },
+  {
+    "Station": "Chester",
+    "Accessible": "Yes",
+    "Lat": 43.67837735,
+    "Lng": -79.35141628
+  },
+  {
+    "Station": "Christie",
+    "Accessible": "No",
+    "Lat": 43.66425178,
+    "Lng": -79.41869303
+  },
+  {
+    "Station": "College",
+    "Accessible": "No",
+    "Lat": 43.66122997,
+    "Lng": -79.38278217
+  },
+  {
+    "Station": "Coxwell",
+    "Accessible": "Yes",
+    "Lat": 43.68414917,
+    "Lng": -79.32352724
+  },
+  {
+    "Station": "Davisville",
+    "Accessible": "Yes",
+    "Lat": 43.69812339,
+    "Lng": -79.39733141
+  },
+  {
+    "Station": "Don Mills",
+    "Accessible": "Yes",
+    "Lat": 43.77556464,
+    "Lng": -79.34693642
+  },
+  {
+    "Station": "Donlands",
+    "Accessible": "Yes",
+    "Lat": 43.68105008,
+    "Lng": -79.33792557
+  },
+  {
+    "Station": "Downsview Park",
+    "Accessible": "Yes",
+    "Lat": 43.7536364,
+    "Lng": -79.4788538
+  },
+  {
+    "Station": "Dufferin",
+    "Accessible": "Yes",
+    "Lat": 43.6606651,
+    "Lng": -79.4359558
+  },
+  {
+    "Station": "Dundas",
+    "Accessible": "Yes",
+    "Lat": 43.65613653,
+    "Lng": -79.38072965
+  },
+  {
+    "Station": "Dundas West",
+    "Accessible": "Yes",
+    "Lat": 43.65714206,
+    "Lng": -79.45267843
+  },
+  {
+    "Station": "Dupont",
+    "Accessible": "Yes",
+    "Lat": 43.67490988,
+    "Lng": -79.40725667
+  },
+  {
+    "Station": "Eglinton",
+    "Accessible": "Yes",
+    "Lat": 43.70664584,
+    "Lng": -79.39915846
+  },
+  {
+    "Station": "Eglinton West",
+    "Accessible": "Yes",
+    "Lat": 43.69899665,
+    "Lng": -79.43598953
+  },
+  {
+    "Station": "Finch",
+    "Accessible": "Yes",
+    "Lat": 43.78149012,
+    "Lng": -79.41567261
+  },
+  {
+    "Station": "Finch West",
+    "Accessible": "Yes",
+    "Lat": 43.7651403,
+    "Lng": -79.4910434
+  },
+  {
+    "Station": "Glencairn",
+    "Accessible": "No",
+    "Lat": 43.70981996,
+    "Lng": -79.44152842
+  },
+  {
+    "Station": "Greenwood",
+    "Accessible": "No",
+    "Lat": 43.68270361,
+    "Lng": -79.33027644
+  },
+  {
+    "Station": "High Park",
+    "Accessible": "No",
+    "Lat": 43.65459423,
+    "Lng": -79.46552962
+  },
+  {
+    "Station": "Highway 407",
+    "Accessible": "Yes",
+    "Lat": 43.783215,
+    "Lng": -79.5237479
+  },
+  {
+    "Station": "Islington",
+    "Accessible": "No",
+    "Lat": 43.64595008,
+    "Lng": -79.52394798
+  },
+  {
+    "Station": "Jane",
+    "Accessible": "Yes",
+    "Lat": 43.65029127,
+    "Lng": -79.48477178
+  },
+  {
+    "Station": "Keele",
+    "Accessible": "Yes",
+    "Lat": 43.65570079,
+    "Lng": -79.46031548
+  },
+  {
+    "Station": "Kennedy",
+    "Accessible": "Yes",
+    "Lat": 43.73211815,
+    "Lng": -79.26569845
+  },
+  {
+    "Station": "King",
+    "Accessible": "No",
+    "Lat": 43.64912088,
+    "Lng": -79.37804513
+  },
+  {
+    "Station": "Kipling",
+    "Accessible": "Yes",
+    "Lat": 43.63802031,
+    "Lng": -79.53638812
+  },
+  {
+    "Station": "Lansdowne",
+    "Accessible": "Yes",
+    "Lat": 43.65914292,
+    "Lng": -79.44296991
+  },
+  {
+    "Station": "Lawrence",
+    "Accessible": "No",
+    "Lat": 43.72542192,
+    "Lng": -79.40187758
+  },
+  {
+    "Station": "Lawrence West",
+    "Accessible": "Yes",
+    "Lat": 43.71638143,
+    "Lng": -79.44402915
+  },
+  {
+    "Station": "Leslie",
+    "Accessible": "Yes",
+    "Lat": 43.77113245,
+    "Lng": -79.36741635
+  },
+  {
+    "Station": "Main Street",
+    "Accessible": "Yes",
+    "Lat": 43.68891661,
+    "Lng": -79.30272876
+  },
+  {
+    "Station": "Museum",
+    "Accessible": "No",
+    "Lat": 43.66717707,
+    "Lng": -79.39350223
+  },
+  {
+    "Station": "North York Centre",
+    "Accessible": "Yes",
+    "Lat": 43.76924125,
+    "Lng": -79.4129116
+  },
+  {
+    "Station": "Old Mill",
+    "Accessible": "No",
+    "Lat": 43.65057649,
+    "Lng": -79.49522499
+  },
+  {
+    "Station": "Osgoode",
+    "Accessible": "Yes",
+    "Lat": 43.65087411,
+    "Lng": -79.38661732
+  },
+  {
+    "Station": "Ossington",
+    "Accessible": "Yes",
+    "Lat": 43.66266333,
+    "Lng": -79.42615682
+  },
+  {
+    "Station": "Pape",
+    "Accessible": "Yes",
+    "Lat": 43.67968493,
+    "Lng": -79.34520853
+  },
+  {
+    "Station": "Pioneer Village",
+    "Accessible": "Yes",
+    "Lat": 43.7779629,
+    "Lng": -79.5120964
+  },
+  {
+    "Station": "Queen",
+    "Accessible": "Yes",
+    "Lat": 43.65234651,
+    "Lng": -79.3793265
+  },
+  {
+    "Station": "Queen's Park",
+    "Accessible": "Yes",
+    "Lat": 43.65970495,
+    "Lng": -79.39034904
+  },
+  {
+    "Station": "Rosedale",
+    "Accessible": "No",
+    "Lat": 43.67690095,
+    "Lng": -79.38872589
+  },
+  {
+    "Station": "Royal York",
+    "Accessible": "Yes",
+    "Lat": 43.64880444,
+    "Lng": -79.51154051
+  },
+  {
+    "Station": "Runnymede",
+    "Accessible": "Yes",
+    "Lat": 43.65216695,
+    "Lng": -79.47649916
+  },
+  {
+    "Station": "Sheppard West",
+    "Accessible": "Yes",
+    "Lat": 43.7496882,
+    "Lng": -79.4618781
+  },
+  {
+    "Station": "Sheppard–Yonge",
+    "Accessible": "Yes",
+    "Lat": 43.7620348,
+    "Lng": -79.4118972
+  },
+  {
+    "Station": "Sherbourne",
+    "Accessible": "Yes",
+    "Lat": 43.67234508,
+    "Lng": -79.37698161
+  },
+  {
+    "Station": "Spadina",
+    "Accessible": "Yes \nNo",
+    "Lat": 43.66764776,
+    "Lng": -79.4037584
+  },
+  {
+    "Station": "St. Andrew",
+    "Accessible": "Yes",
+    "Lat": 43.64764565,
+    "Lng": -79.38513048
+  },
+  {
+    "Station": "St. Clair",
+    "Accessible": "Yes",
+    "Lat": 43.68816298,
+    "Lng": -79.39328435
+  },
+  {
+    "Station": "St. Clair West",
+    "Accessible": "Yes",
+    "Lat": 43.68435203,
+    "Lng": -79.41453588
+  },
+  {
+    "Station": "St. George",
+    "Accessible": "Yes",
+    "Lat": 43.66831164,
+    "Lng": -79.39864323
+  },
+  {
+    "Station": "St. Patrick",
+    "Accessible": "Yes",
+    "Lat": 43.65461164,
+    "Lng": -79.38829598
+  },
+  {
+    "Station": "Summerhill",
+    "Accessible": "No",
+    "Lat": 43.68245,
+    "Lng": -79.39117824
+  },
+  {
+    "Station": "Union",
+    "Accessible": "Yes",
+    "Lat": 43.64572267,
+    "Lng": -79.38046226
+  },
+  {
+    "Station": "Vaughan",
+    "Accessible": "Yes",
+    "Lat": 43.7942477,
+    "Lng": -79.530067
+  },
+  {
+    "Station": "Victoria Park",
+    "Accessible": "Yes",
+    "Lat": 43.69432082,
+    "Lng": -79.29031894
+  },
+  {
+    "Station": "Warden",
+    "Accessible": "No",
+    "Lat": 43.71224201,
+    "Lng": -79.27898037
+  },
+  {
+    "Station": "Wellesley",
+    "Accessible": "Yes",
+    "Lat": 43.66518294,
+    "Lng": -79.38377079
+  },
+  {
+    "Station": "Wilson",
+    "Accessible": "Yes",
+    "Lat": 43.73458062,
+    "Lng": -79.44992871
+  },
+  {
+    "Station": "Woodbine",
+    "Accessible": "Yes",
+    "Lat": 43.6863529,
+    "Lng": -79.31335711
+  },
+  {
+    "Station": "York Mills",
+    "Accessible": "Yes",
+    "Lat": 43.74499592,
+    "Lng": -79.40533068
+  },
+  {
+    "Station": "York University",
+    "Accessible": "Yes",
+    "Lat": 43.7739092,
+    "Lng": -79.4998269
+  },
+  {
+    "Station": "Yorkdale",
+    "Accessible": "Yes",
+    "Lat": 43.72481302,
+    "Lng": -79.44750946
+  }
+]
